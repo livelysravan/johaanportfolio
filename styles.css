@@ -28,6 +28,13 @@ body, html {
     padding: 2rem;
 }
 
+.profile-photo {
+    width: 100%;
+    max-width: 200px; /* Adjust size as needed */
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
 header {
     text-align: center;
     padding: 2rem 0;
